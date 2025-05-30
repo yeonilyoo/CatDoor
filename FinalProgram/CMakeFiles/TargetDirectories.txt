@@ -1,0 +1,1 @@
+/home/pi/CatDoor/FinalProgram/CMakeFiles/facedetect.dir
